@@ -1,0 +1,12 @@
+{
+  "name": "tekkie/health-bundle",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "Tk\\HealthBundle\\": ""
+    }
+  },
+  "require": {
+    "symfony/http-kernel": "~3.1"
+  }
+}
