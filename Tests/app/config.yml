@@ -1,0 +1,4 @@
+framework:
+  secret: "One Two Three"
+  router:
+    resource: "%kernel.root_dir%/../../Resources/config/routing.yml"

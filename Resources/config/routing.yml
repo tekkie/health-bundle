@@ -1,0 +1,3 @@
+TkHealthBundle_homepage:
+  path: /
+  defaults: { _controller: TkHealthBundle:Status:index }
